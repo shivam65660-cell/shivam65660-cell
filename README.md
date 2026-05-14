@@ -133,9 +133,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam65660-cell&show_icons=true&theme=tokyonight" height="180em"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam65660-cell&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam65660-cell&theme=tokyo-night" />
 </p>
 
 ---
@@ -151,7 +151,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shivam65660-cell/shivam65660-cell/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -174,7 +174,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shivam65660-cell&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <h3 align="center">⚡ Secure Code. Hunt Threats. Build Defenses. ⚡</h3>
