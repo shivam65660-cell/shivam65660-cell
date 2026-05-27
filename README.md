@@ -35,7 +35,9 @@
 
 <!-- ═══════════════════ TERMINAL WHOAMI ═══════════════════ -->
 
-<img align="right" alt="Hacking GIF" width="330" src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif"/>
+<!-- 🔥 CYBER SECURITY / KALI LINUX HACKING GIF -->
+<img align="right" alt="Cyber Security GIF" width="340"
+     src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif"/>
 
 ```console
 ┌──(shivam㉿kali)-[~]
@@ -81,7 +83,6 @@
 
 <div align="center">
 
-<!-- STATS: using vercel-hosted reliable fork -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam65660-cell&show_icons=true&theme=merko&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=aaffaa&border_color=00ff4160&count_private=true&include_all_commits=true&hide_border=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam65660-cell&layout=compact&theme=merko&bg_color=0d1117&title_color=00ff41&text_color=aaffaa&border_color=00ff4160"/>
 
@@ -89,7 +90,6 @@
 
 <div align="center">
 
-<!-- STREAK: using demolab (most reliable host) -->
 <img src="https://streak-stats.demolab.com?user=shivam65660-cell&theme=matrix&background=0D1117&border=00FF4160&stroke=00FF41&ring=00FF41&fire=FF4400&currStreakNum=FFFFFF&sideNums=AAFFAA&currStreakLabel=00FF41&sideLabels=AAFFAA&dates=555555" width="70%"/>
 
 </div>
@@ -277,9 +277,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<!-- ⚠️  One-time setup: add Platane/snk GitHub Action to your profile repo  -->
-<!-- Action YAML → https://github.com/Platane/snk#readme                     -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shivam65660-cell/shivam65660-cell/output/github-contribution-grid-snake-dark.svg"
