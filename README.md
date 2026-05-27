@@ -7,7 +7,7 @@
 
 <!-- ═══════════════════ MATRIX RAIN GIF ═══════════════════ -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW04YmdqYzZjMDN6NTRsdWhlMTJqbmFneXBybzJ0Z29oZ2JsMmxtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif)" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW04YmdqYzZjMDN6NTRsdWhlMTJqbmFneXBybzJ0Z29oZ2JsMmxtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif" width="100%">
 </p>
 
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
